@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: burlywood;
 }
 
 h1 {
-  color: navy;
+  color: Indigo;
   margin-left: 20px;
 }
 
 .center {
   text-align: center;
-  color: indigo;
+  color: lightgreen;
 } 
